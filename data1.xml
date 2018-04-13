@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/css" href="style.css"?>
+<uaic>
+   <title>UAIC welcome message</title>
+
+   <msg1>Welcome to <name>UAIC</name>, <emphasis>the oldest university</emphasis> in Romania!</msg1>
+
+   <msg2>Welcome!!!</msg2> 
+</uaic>

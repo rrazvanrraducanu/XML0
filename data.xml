@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="data.xsl"?>
+<uaic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="data.xsd">
+   <title>UAIC welcome message</title>
+
+   <msg1>Welcome to</msg1> 
+   <name> UAIC</name>, 
+   <emphasis> the oldest university</emphasis> 
+   <msg2> in Romania!</msg2>
+
+   <msg3>UAIC LOGO: </msg3> 
+    <image>
+        <img width="100" height="100" alt="bla bla" src="images/uaic.jpg"/>
+    </image>
+
+</uaic>

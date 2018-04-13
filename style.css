@@ -1,0 +1,43 @@
+uaic {
+  display: block;
+  background-color: aquamarine;
+  color: blue;
+  font-family: monospace;
+  padding: 1em;
+}
+title {
+  display: block;
+  color:red;
+  margin: .5em;
+  padding: .5em;
+  border: thick solid red;
+  background-color: yellow;
+  whitespace: normal;
+}
+msg1 {
+  display: block;
+  color:darkblue;
+  margin: .5em;
+  padding: .5em;
+  border: thin solid lightblue;
+  background-color: yellow;
+  whitespace: normal;
+}
+msg2 {
+  display: block;
+  color:red;
+  margin: .5em;
+  padding: .5em;
+  border: thick solid blueviolet;
+  background-color: yellowgreen;
+  whitespace: normal;
+}
+
+emphasis {
+  font-style: italic;
+}
+name {
+  font-weight: bold;
+}
+
+
